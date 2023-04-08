@@ -8,4 +8,4 @@
  */
 
 rootProject.name = 'AvizEvent'
-include('web', 'logic', 'event')
+include('web', 'service', 'event')

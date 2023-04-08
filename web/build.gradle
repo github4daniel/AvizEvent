@@ -6,3 +6,7 @@ plugins {
     id 'com.aviz.java-common-conventions'
 }
 
+dependencies {
+    implementation project(':service')
+}
+
